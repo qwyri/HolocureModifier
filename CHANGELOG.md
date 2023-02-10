@@ -8,6 +8,9 @@
 
 - ( **v1** )
   - Max stat available
+  - Max Holocoins
+  - Old save modifying
+  - Custom attribute modifying
 
 ### **ON GOING ISSUES**
 
@@ -16,7 +19,6 @@
 ### **ON GOING TEST**
 
 - ( **v1** )
-  - Old save modifying
   - Maxout everything
   - Modify speed and attack
   - Better interface
